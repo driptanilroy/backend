@@ -1,1 +1,1 @@
-This is a backend series by Chai aur Code -- part of the 25 day backend!
+This is a backend series by Chai aur Code -- part of the 25 day backend series!
